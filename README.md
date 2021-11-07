@@ -2,8 +2,6 @@
 
 An open source of telegram Auto Caption bot
 
-- For demo you can check the <b>[Dynamic Caption](https://telegram.me/dynamiccaptionrobot)</b>
-
 # About Bot
 
 This is a light weight and fastest Auto caption bot which can add caption prescribed by the admin of bot
